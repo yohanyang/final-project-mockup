@@ -15,6 +15,34 @@ FlowRouter.route('/list', {
   },
 });
 
+FlowRouter.route('/public-landing', {
+  name: 'Public_Landing_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Public_Landing_Page' });
+  },
+});
+
+FlowRouter.route('/club-list', {
+  name: 'Club_List_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Club_List_Page' });
+  },
+});
+
+FlowRouter.route('/log-sign', {
+  name: 'Log_Sign_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Log_Sign_Page' });
+  },
+});
+
+FlowRouter.route('/calendar', {
+  name: 'Calendar_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Calendar_Page' });
+  },
+});
+
 FlowRouter.route('/add', {
   name: 'Add_Stuff_Page',
   action() {
