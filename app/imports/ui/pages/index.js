@@ -18,6 +18,15 @@ import './club-list-page.js';
 import './calendar.html';
 import './calendar.js';
 
-import './log-sign-page.html';
-import './log-sign-page.js';
+import './profile_page.html';
+import './profile_page.js';
+
+import './user_home_page.html';
+import './user_home_page.js';
+
+import './admin_home_page.html';
+import './admin_home_page';
+
+import './about_us_page.html';
+import './about_us_page';
 

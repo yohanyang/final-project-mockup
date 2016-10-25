@@ -29,6 +29,34 @@ FlowRouter.route('/club-list', {
   },
 });
 
+FlowRouter.route('/admin-home', {
+  name: 'Admin_Home_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Admin_Home_Page' });
+  },
+});
+
+FlowRouter.route('/user-home', {
+  name: 'User_Home_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'User_Home_Page' });
+  },
+});
+
+FlowRouter.route('/profile', {
+  name: 'Profile_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Profile_Page' });
+  },
+});
+
+FlowRouter.route('/about-us', {
+  name: 'About_Us_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'About_Us_Page' });
+  },
+});
+
 FlowRouter.route('/log-sign', {
   name: 'Log_Sign_Page',
   action() {

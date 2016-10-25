@@ -5,9 +5,14 @@
     <div style="margin: 0px; border-radius: 0px;" class="ui borderless inverted menu">
   <div class="ui container">
       <a class="item" href="{{pathFor 'Home_Page'}}"><h1>Club Hub </h1></a>
+    <a class="{{ isActiveRoute 'About_Us_Page'}} item" href="{{ pathFor 'About_Us_Page' }}">About Us </a>
+    <a class="{{ isActiveRoute 'Profile_Page'}} item" href="{{ pathFor 'Profile_Page' }}">Profile </a>
+    <a class="{{ isActiveRoute 'Admin_Home_Page'}} item" href="{{ pathFor 'Admin_Home_Page' }}">Admin Home </a>
+    <a class="{{ isActiveRoute 'User_Home_Page'}} item" href="{{ pathFor 'User_Home_Page' }}">User Home </a>
       <a class="{{ isActiveRoute 'Club_List_Page'}} item" href="{{ pathFor 'Club_List_Page' }}">Club List </a>
       <a class="{{ isActiveRoute 'Calendar_Page'}} item" href="{{ pathFor 'Calendar_Page' }}">Calendar </a>
       <a class="ui right aligned {{ isActiveRoute 'Log_Sign_Page'}} item" href="{{ pathFor 'Log_Sign_Page' }}">Login / SignUp </a>
+
     <div class="ui right aligned category search">
       <div style="margin-top: 10px; margin-right: 40px;" class="ui icon input">
         <input class="prompt" type="text" placeholder="Search ">
