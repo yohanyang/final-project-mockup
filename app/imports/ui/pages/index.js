@@ -18,6 +18,9 @@ import './club-list-page.js';
 import './calendar.html';
 import './calendar.js';
 
+import './log-sign-page.html';
+import './log-sign-page.js';
+
 import './profile_page.html';
 import './profile_page.js';
 
