@@ -14,4 +14,4 @@ Club List
 Calendar
 ![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/calendar.jpg?raw=true)
 Login Sign
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/loginsign.jpg?raw=true)
+![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/logsign.jpg?raw=true)
