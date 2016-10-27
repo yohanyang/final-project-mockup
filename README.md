@@ -1,17 +1,20 @@
 # final-project-mockup
 
+Before Login
+![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/beforelog.jpg?raw=true)
+
+After Login
+![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/afterlog.jpg?raw=true)
+
 About Us
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/aboutus.jpg?raw=true)
+![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/about.jpg?raw=true)
 
 Admin Home
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/adminhome.jpg?raw=true)
-Profile
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/profile.jpg?raw=true)
-User Home
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/userhome.jpg?raw=true)
+![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/admin.jpg?raw=true)
+
 Club List
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/clublist.jpg?raw=true)
+![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/clublist2.jpg?raw=true)
+
 Calendar
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/calendar.jpg?raw=true)
-Login Sign
-![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/logsign.jpg?raw=true)
+![](https://github.com/yohanyang/final-project-mockup/blob/master/doc/calendar2.jpg?raw=true)
+
