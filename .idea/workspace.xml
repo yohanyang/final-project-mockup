@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c77e860b-e3e4-4436-b5db-fa2d7198d864" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/images/manoa_main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/images/profile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/imports/ui/layouts/header.html" afterPath="$PROJECT_DIR$/app/imports/ui/layouts/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/imports/ui/pages/about_us_page.html" afterPath="$PROJECT_DIR$/app/imports/ui/pages/about_us_page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/imports/ui/pages/admin_home_page.html" afterPath="$PROJECT_DIR$/app/imports/ui/pages/admin_home_page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/imports/ui/pages/calendar.html" afterPath="$PROJECT_DIR$/app/imports/ui/pages/calendar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/imports/ui/pages/club-list-page.html" afterPath="$PROJECT_DIR$/app/imports/ui/pages/club-list-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/imports/ui/pages/profile_page.html" afterPath="$PROJECT_DIR$/app/imports/ui/pages/profile_page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/imports/ui/pages/user_home_page.html" afterPath="$PROJECT_DIR$/app/imports/ui/pages/user_home_page.html" />
     </list>
     <ignored path="final-project-mockup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,7 +75,7 @@
       <file leaf-file-name="about_us_page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/imports/ui/pages/about_us_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="60">
               <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -127,9 +119,10 @@
       <file leaf-file-name="club-list-page.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/imports/ui/pages/club-list-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -187,10 +180,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="166" />
-    <option name="y" value="165" />
-    <option name="width" value="995" />
-    <option name="height" value="646" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -496,6 +487,7 @@
     <property name="js.eslint.nodeInterpreter" value="project" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/node_modules/eslint" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -628,11 +620,11 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="166" y="165" width="995" height="646" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36180905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1022,7 +1014,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/imports/ui/pages/about_us_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="60">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -1072,9 +1064,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/imports/ui/pages/club-list-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
         </state>
