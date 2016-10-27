@@ -1,12 +1,22 @@
 <template name="Profile_Page">
   {{#If_Logged_In}}
-    <div style="padding-top: 20px" class="ui text container">
-      {{> quickForm
-      collection=stuffCollection
-      template="semanticUI"
-      id="AddStuffForm"
-      type="insert"
-      resetOnSuccess=true}}
+  <div style="margin-top: 20px;" class="ui centered container">
+  <div class="ui items">
+    <div class="item">
+      <a class="ui small image">
+        <img src="/images/profile.png">
+      </a>
+      <div class="content">
+        <a class="header">Cute Dog</a>
+        <div class="description">
+          <p>Cute dogs come in a variety of shapes and sizes. Some cute dogs are cute for their adorable faces, others for their tiny stature, and even others for their massive size.
+          </p>
+          <p>Many people also have their own barometers for what makes a cute dog.
+          </p>
+        </div>
+      </div>
     </div>
+  </div>
+  </div>
   {{/If_Logged_In}}
 </template>
